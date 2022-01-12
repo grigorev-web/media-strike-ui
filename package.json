@@ -1,0 +1,19 @@
+{
+  "name": "media-strike-ui",
+  "version": "1.0.0",
+  "description": "Media Strike UI library for simple and fast development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grigorev-web/media-strike-ui.git"
+  },
+  "author": "https://grigorev-web.ru/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grigorev-web/media-strike-ui/issues"
+  },
+  "homepage": "https://github.com/grigorev-web/media-strike-ui#readme"
+}
