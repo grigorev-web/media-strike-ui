@@ -1,6 +1,6 @@
 {
   "name": "media-strike-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Media Strike UI library for simple and fast development",
   "main": "index.js",
   "scripts": {
