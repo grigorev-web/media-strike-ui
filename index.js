@@ -1,2 +1,4 @@
-export {Button} from "./components/Button"
+let button = 33;
+
+export {button};
 
