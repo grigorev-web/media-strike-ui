@@ -1,4 +1,4 @@
-let button = 33;
+import {Button} from './components/Button'
 
-export {button};
+export {Button};
 
